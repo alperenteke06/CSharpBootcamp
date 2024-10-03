@@ -1,0 +1,7 @@
+C:\Projects\CSharpBootcamp\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Projects\CSharpBootcamp\02_Variables\bin\Debug\02_Variables.exe
+C:\Projects\CSharpBootcamp\02_Variables\bin\Debug\02_Variables.pdb
+C:\Projects\CSharpBootcamp\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Projects\CSharpBootcamp\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpBootcamp\02_Variables\obj\Debug\02_Variables.exe
+C:\Projects\CSharpBootcamp\02_Variables\obj\Debug\02_Variables.pdb
