@@ -1,7 +1,0 @@
-C:\Projects\CSharpBootcamp\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
-C:\Projects\CSharpBootcamp\01_MainSubjects\bin\Debug\01_MainSubjects.exe
-C:\Projects\CSharpBootcamp\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
-C:\Projects\CSharpBootcamp\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
-C:\Projects\CSharpBootcamp\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
-C:\Projects\CSharpBootcamp\01_MainSubjects\obj\Debug\01_MainSubjects.exe
-C:\Projects\CSharpBootcamp\01_MainSubjects\obj\Debug\01_MainSubjects.pdb

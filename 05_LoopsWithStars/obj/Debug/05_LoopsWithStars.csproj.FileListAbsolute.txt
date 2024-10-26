@@ -1,7 +1,0 @@
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
-C:\Projects\CSharpBootcamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
