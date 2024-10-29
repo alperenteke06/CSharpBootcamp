@@ -7,6 +7,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+CSharpBootcamp.sln
 
 # User-specific files (Mono Auto Generated)
 mono_crash.*
